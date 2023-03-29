@@ -10,3 +10,4 @@
 <a href="<? echo route('admin.praduct') ; ?>">Admin praduct</a><br>
 <a href="<? echo route('admin.servis') ; ?>">Admin servis</a><br>
 <a href="<? echo route('user.index') ; ?>">user index</a><br>
+<a href="<? echo route('manager.index') ; ?>">manager index</a><br>
